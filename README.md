@@ -12,7 +12,9 @@ Be sure to label the different versions so you can differentiate them in your di
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-rennat10/blob/master/Solusi1.jpg)
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-rennat10/blob/master/Solusi2.jpg)
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-rennat10/blob/master/Solusi3.jpg)
 
 ### 2. Version Differences
 ```
