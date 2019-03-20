@@ -18,19 +18,23 @@ If you choose to take a picture of your sketches, please make sure the texts are
 
 ### 2. Version Differences
 ```
-Please write a paragraph talking about the differences between the versions
+First Version
+In the first version, if we open the website, the login form will be pop up, we can close the login form pop up, and after we close the login form pop up, if we want to login, we can click Sign In (it must be Login) and the login form will pop up again. The center is news, and in the sidebar it will be fill with contact, info, etc
+Second Version
+In the second version, the design is likely the original design, the login form is in the center of website, the sidebar will likely the first version, and the website can be scroll and in the bottom (or maybe on the center after we scroll the website) of website, there will be news
+Third Version
+The third version is likely the first version, but the login form will not pop up in the first we open the website, and in the top right corner of website is not the login button like the first version but it is a login form at the top right corner of the website.
+
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+I choose the first version because the i think the first version is more interesting because the design is simple and looks like elegant, and easy to use it
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+User feel confused to reset password (it is like forget password) because there's no such feature.
 ```
 
 ## Part B: Assumptions
