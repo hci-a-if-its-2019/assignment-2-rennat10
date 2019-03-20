@@ -34,19 +34,18 @@ and how it is reflected in your design.
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Screen size : 14 inch
+Screen resolution : higher than 640 x 480 , ratio 4:3 with color
+Computer minimum reqirement: 
+	Processor:  Intel Core 2 Duo 2.0 GHz, AMD Athlon 64 X2 2.0 GHz or better,
+	VGA : Intel HD Graphic, 
+	RAM : 2 GB
+Physical button : mouse and keyboard
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+1. Atleast have a experience for using email
+2. Age range 6-60 that have an email
 ```
 
 ## Part C: Prototypes
