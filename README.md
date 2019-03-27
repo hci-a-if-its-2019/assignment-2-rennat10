@@ -55,4 +55,4 @@ Physical button : mouse and keyboard
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+Here is the link of Invisio's prototype : https://invis.io/E8R75JFUGFM
