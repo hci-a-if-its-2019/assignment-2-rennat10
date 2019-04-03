@@ -34,7 +34,10 @@ I choose the first version because the i think the first version is more interes
 
 ### 4. Design Rationale
 ```
+In assigment 1, we do interview with a user
 User feel confused to reset password (it is like forget password) because there's no such feature.
+If there's a such feature, the feature isn't working or it is to hard to reset the password
+From that, we can revision that design website to make it better.
 ```
 
 ## Part B: Assumptions
@@ -55,4 +58,8 @@ Physical button : mouse and keyboard
 ```
 
 ## Part C: Prototypes
-Here is the link of Invisio's prototype : https://invis.io/E8R75JFUGFM
+Here is the link of Invisio's prototype : 
+### Low Fidelity Version
+https://invis.io/E8R75JFUGFM
+### High Fidelity Version
+https://invis.io/QRRCMWEYXJ8
